@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+pymupdf
+faiss-cpu
+python-dotenv
